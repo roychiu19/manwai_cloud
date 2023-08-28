@@ -1,0 +1,8 @@
+GitHub Branching and Merging
+Branching and Merging are fundamental version control concepts.
+Branching:
+allows developers to create separate lines of development, enabling them to work on different features or bug fixes independently.
+Developers create branches to make changes without affecting the main branch (often called the "master" or "main" branch).
+
+Merging 
+combine the changes made in one branch into another branch, typically merging feature branches into the main branch.
